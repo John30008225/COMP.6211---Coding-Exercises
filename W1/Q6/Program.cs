@@ -15,7 +15,7 @@ namespace Q6
                 double radius = double.Parse(Console.ReadLine());
                 double pi = Math.PI;
                 double area = pi * (radius * radius);
-                Console.WriteLine("The Area (A=πr2) of your circle is: {0:0.00}", area);
+                Console.WriteLine("The Area of your circle is: {0:0.00}", area);
             }
                 Console.ReadLine();
             
